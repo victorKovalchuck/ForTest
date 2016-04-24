@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-From First branch
-=======
-Master1.txt
->>>>>>> origin/master
